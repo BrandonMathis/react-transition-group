@@ -1,6 +1,6 @@
 parser: babel-eslint
 extends:
-  - jason/react
+  - json/react
   - plugin:jsx-a11y/recommended
 settings:
   react:
